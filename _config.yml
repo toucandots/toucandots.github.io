@@ -1,0 +1,43 @@
+url: https://toucadots.com
+
+# Site settings
+title: Toucan Dots Software
+email: hello@toucandots.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Team names, titles and social links
+#people:
+#  - name: Shems Eddine Boukhatem
+#    pic: 1
+#    position: Lead Designer
+#    social:
+#      - title: twitter
+#        url: #
+#      - title: facebook
+#        url: #
+#      - title: stack-overflow
+#        url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Toucan Dots Software - FZCO
+  - line: DSO-THUB-G-D-FLEX-G073B
+  - line: Dubai Silicon Oasis
+  - line: Dubai, UAE
+
+# Build settings
+markdown: kramdown
+permalink: pretty
