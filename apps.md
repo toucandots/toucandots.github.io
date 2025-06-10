@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 title: Apps
 permalink: /apps/
 ---
@@ -18,7 +18,7 @@ permalink: /apps/
         <div class="team-member">
             <h4>DZ Now</h4>
             <p class="text-muted">Smart Algerian Initiative.</p>
-            <ul class="list-inline social-buttons">
+            <ul class="list-inline">
                 <li><a href="/apps/dznow/privacy-policy/">Privacy Policy</a></li>
                 <li><a href="/apps/dznow/terms-of-service/">Terms of Service</a></li>
             </ul>

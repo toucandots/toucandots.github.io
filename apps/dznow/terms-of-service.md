@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 title: Terms of Service - DZ Now
 permalink: /apps/dznow/terms-of-service/
 ---

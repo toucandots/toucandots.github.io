@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 title: Privacy Policy - DZ Now
 permalink: /apps/dznow/privacy-policy/
 ---
